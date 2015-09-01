@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Shared utility library from components",
   "license": "MIT",
-  "repository": "getbacktofront/component-corner-menu",
+  "repository": "shadowmint/component-utils",
   "engines": {
     "node": ">=0.10.0"
   },
